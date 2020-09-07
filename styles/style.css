@@ -1,0 +1,183 @@
+
+
+
+
+
+
+
+/* NavBar */
+
+
+.navLink{
+    font-style: italic;
+    font-weight: bold;
+    font-family: 'Josefin Sans', sans-serif;
+    
+}
+
+#toddler-list{
+    margin-left:58rem;
+}
+/* Title Section */
+
+#title{
+    background-color: #393b44;
+}
+
+.Title{
+    background-color:#ad6989;
+    margin-top: 3rem;
+}
+
+.big-Heading{
+    padding-top: 7rem;
+    color:#decdc3;
+    text-align: center;
+    font-family: 'Architects Daughter', cursive;
+    font-size: 60px;
+
+}
+
+
+
+.Title-Para{
+    color: #decdc3;
+    text-align: left;
+    padding: 3rem;
+    font-family: 'Chilanka', cursive;
+}
+.title-image{
+    
+    position: static;
+    border-radius: 8rem;
+    left: 30%;
+   width: 60%;
+   
+}
+/* Image section */
+#Image_section{
+    background-color:#8d93ab ;
+    padding:5% 0 5% 0;
+}
+
+
+
+
+
+
+
+/* Youtube Section */
+#youtube{
+    background-color: #393b44;
+    padding:5% 0 5% 0;
+}
+
+
+
+/* Contact Section */
+
+#Contect_Me{
+    padding:5% 0 5% 0;
+    
+    background-color:#8d93ab ;
+    align-items: center;
+    
+}
+.ctn_heading{
+    font-family: 'Architects Daughter', cursive;
+    text-align: center;
+    color:#decdc3;
+    padding:50px 10% 20px 10%;
+    font-size:50px;
+}
+.ctn_heading:hover{
+    color: #393b44;
+    text-decoration:underline;
+
+    
+}
+
+
+.ctn-btn{
+ 
+padding:5% 35% 5% 37%;
+
+
+}
+
+.Contect-button{
+    margin: 5px 7px 5px 7px;
+}
+
+/* Footer */
+
+#Footer{
+    background-color: #393b44;
+    padding:6% 0 5% 0;
+}
+
+.footer-section{
+    padding:5% ;
+}
+.footer-link{
+    padding: 0 40% 0 40%;
+    margin:10px;
+   
+}
+.foot-btn{
+    margin: 5px;
+    text-align:center;
+}
+.copyright{
+    text-align: center;
+    margin: 20px;
+    color:#decdc3 ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Just trying */
+input[type=text], select, textarea {
+    width: 100%; /* Full width */
+    padding: 12px; /* Some padding */ 
+    border: 1px solid #ccc; /* Gray border */
+    border-radius: 4px; /* Rounded borders */
+    box-sizing: border-box; /* Make sure that padding and width stays in place */
+    margin-top: 6px; /* Add a top margin */
+    margin-bottom: 16px; /* Bottom margin */
+    resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
+  }
+  
+  /* Style the submit button with a specific background color etc */
+  input[type=submit] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  /* When moving the mouse over the submit button, add a darker green color */
+  input[type=submit]:hover {
+    background-color: blueviolet;
+  }
+  
+  /* Add a background color and some padding around the form */
+  .container {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+  }
